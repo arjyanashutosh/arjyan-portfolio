@@ -40,7 +40,6 @@ Main objectives:
 ## Tech Stack Used
 
 - HTML5
-- CSS (Internal CSS)
 
 JavaScript is not used intentionally to keep the project simple.
 
